@@ -2,7 +2,6 @@
 # Created on 01-03-2016
 __author__ = "Luyanda Isaac Van Wyk"
 __email__ = "vanwykisaac96@gmail.com"
-__version__ = "0.6"
 
 #ToDo:
 #   - Add intelligent ghost AI and pathfinding
